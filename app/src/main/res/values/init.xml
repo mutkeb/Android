@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pwd_init">123456</string>
+    <string name="userName_init">mutkeb</string>
+</resources>
